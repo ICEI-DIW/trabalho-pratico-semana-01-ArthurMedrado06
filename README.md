@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Arthur Ferreira Gontijo de Figueiredo Medrado
+Matricula: 891391
 
 ## Tela de inspeção com navegador
-
+imagem1.png
 
 ## Tela de projeto no Replit
-
+imagem2.png
